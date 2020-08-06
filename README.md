@@ -12,6 +12,11 @@
 * [AndroidStudio](https://developer.android.com/studio) - IDE de desenvolvimento para plataforma Android
 * [IntelliJ]() - IDEA da JetBrains para desenvolvimento
 
+## 🖌 Design Front-end
+* [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
+* [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 
+* [Sketch](https://www.sketch.com/) - Desenvolvimento de layouts em alta qualidade
+
 ## 🎥 Canais no YouTube
 * [MarcusNg](https://www.youtube.com/channel/UC6Dy0rQ6zDnQuHQ1EeErGUA) - Flutter UI e Pequenos Apps
 * [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw/featured) - Flutter UI (UI's bem estilizadas)

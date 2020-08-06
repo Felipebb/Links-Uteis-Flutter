@@ -1,6 +1,6 @@
 # Links-Uteis-Flutter
 
-📎 Links úteis para o desenvolvimento de projetos em Flutter/Dart
+📎 Links úteis para o desenvolvimento de projetos em Flutter/Dart 
 
 ## 🔧 Facilitadores de desenvolvimento
 * [PubDev](https://pub.dev/) - Packages/Plugins
@@ -18,3 +18,4 @@
 * [Flutterando](https://www.youtube.com/user/jacobaraujo7) - Canal da maior comunidade de Flutter no Brasil
 * [Flutter Oficial](https://www.youtube.com/c/flutterdev/videos) - Canal oficial do Flutter
 
+(Sempre adicionando mais facilitadores)

@@ -12,6 +12,9 @@
 * [AndroidStudio](https://developer.android.com/studio) - IDE de desenvolvimento para plataforma Android
 * [IntelliJ]() - IDEA da JetBrains para desenvolvimento
 
+## :pencil2: Estudos
+* [DevMedia Dart](https://www.devmedia.com.br/sintaxe-dart-tipos-nao-tao-primitivos/40368) - Declaração de variáveis em Dart e seus tipos 
+
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
 * [Adobe XD](https://www.adobe.com/br/products/xd.html) - Software de design para projetos 

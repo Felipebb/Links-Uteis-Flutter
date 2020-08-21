@@ -25,6 +25,10 @@
 * [The Flutter Way](https://www.youtube.com/channel/UCJm7i4g4z7ZGcJA_HKHLCVw/featured) - Flutter UI (UI's bem estilizadas)
 * [Flutterando](https://www.youtube.com/user/jacobaraujo7) - Canal da maior comunidade de Flutter no Brasil
 * [Flutter Oficial](https://www.youtube.com/c/flutterdev/videos) - Canal oficial do Flutter
-* [Renato Mota](https://www.youtube.com/c/RenatoMotaDev/videos) - 
+* [Renato Mota](https://www.youtube.com/c/RenatoMotaDev/videos) - Diversos conteúdos sobre Flutter
+* [Balta.io](https://www.youtube.com/c/baltaio/videos) - Diversos conteúdos sobre Flutter
+* [Thizer Aplicativos](https://www.youtube.com/c/ThizerAplicativos/videos) - Diversos conteúdos sobre Flutter
+* [Pedro Massango](https://www.youtube.com/c/PedroMassango/videos) - Diversos conteúdos sobre Flutter
+* [Daniel Ciolfi](https://www.youtube.com/user/danielciolfi/videos) - Foco em programação Dart e gerenciamento de estado em Flutter com Mobx
 
 (Sempre adicionando mais facilitadores)

@@ -14,7 +14,7 @@
 
 ## :pencil2: Estudos
 * [DevMedia Dart](https://www.devmedia.com.br/sintaxe-dart-tipos-nao-tao-primitivos/40368) - Declaração de variáveis em Dart e seus tipos 
-* [Medium](https://www.devmedia.com.br/sintaxe-dart-tipos-nao-tao-primitivos/40368) - Artigo contendo 10 métodos uteis para manipulação de arrays (Dart)
+* [Medium](https://codeburst.io/top-10-array-utility-methods-you-should-know-dart-feb2648ee3a2) - Artigo contendo 10 métodos uteis para manipulação de arrays (Dart)
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites

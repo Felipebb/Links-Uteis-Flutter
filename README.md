@@ -14,6 +14,7 @@
 
 ## :pencil2: Estudos
 * [DevMedia Dart](https://www.devmedia.com.br/sintaxe-dart-tipos-nao-tao-primitivos/40368) - Declaração de variáveis em Dart e seus tipos 
+* [Medium](https://www.devmedia.com.br/sintaxe-dart-tipos-nao-tao-primitivos/40368) - Artigo contendo 10 métodos uteis para manipulação de arrays (Dart)
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites
@@ -30,5 +31,6 @@
 * [Thizer Aplicativos](https://www.youtube.com/c/ThizerAplicativos/videos) - Diversos conteúdos sobre Flutter
 * [Pedro Massango](https://www.youtube.com/c/PedroMassango/videos) - Diversos conteúdos sobre Flutter
 * [Daniel Ciolfi](https://www.youtube.com/user/danielciolfi/videos) - Foco em programação Dart e gerenciamento de estado em Flutter com Mobx
+* [Reso Coder](https://www.youtube.com/c/ResoCoder/videos) - Diversos conteúdos sobre Flutter/Dart
 
 (Sempre adicionando mais facilitadores)

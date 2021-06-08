@@ -17,6 +17,7 @@
 * [Medium](https://codeburst.io/top-10-array-utility-methods-you-should-know-dart-feb2648ee3a2) - Artigo contendo 10 métodos uteis para manipulação de arrays (Dart)
 * [Balta.io](https://balta.io/blog/clean-code) - Artigo/Guia sobre o Clean Code, seus conceitos e boas práticas
 * [Objective](https://www.objective.com.br/insights/a-importancia-da-clean-architecture-no-flutter/) - A importância da Clean Architecture no Flutter
+* [Medium](https://medium.com/flutter-community) - Medium dos conteúdos relacionados ao flutter
 
 ## 🖌 Design Front-end
 * [Figma](https://www.figma.com/) - Desenhe projetos online de apps, softwares e websites

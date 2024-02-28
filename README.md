@@ -35,6 +35,7 @@
 * [Pedro Massango](https://www.youtube.com/c/PedroMassango/videos) - Diversos conteúdos sobre Flutter
 * [Daniel Ciolfi](https://www.youtube.com/user/danielciolfi/videos) - Foco em programação Dart e gerenciamento de estado em Flutter com Mobx
 * [Reso Coder](https://www.youtube.com/c/ResoCoder/videos) - Diversos conteúdos sobre Flutter/Dart
-* [Prof. Diego Antunes](https://www.youtube.com/@drantunes) - Diversos conteúdos sobre Flutter/Dart 
+* [Prof. Diego Antunes](https://www.youtube.com/@drantunes) - Diversos conteúdos sobre Flutter/Dart
+* [Rodrigo Rahman](https://www.youtube.com/@rodrigorahman) - Diversos conteúdos sobre Flutter/Dart
 
 (Sempre adicionando mais facilitadores)
